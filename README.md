@@ -1,3 +1,3 @@
 Setting up some test files/tests to learn how to use GitLab CI
 
-Added a runner...
+Setup works for using the API to trigger a CI build.
