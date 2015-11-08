@@ -24,7 +24,7 @@ https://gitlab.com/ci
 Please enter the gitlab-ci token for this runner:
 <your token here>
 Please enter the gitlab-ci description for this runner:
-[marohrdanzLaptop.local]: learning_gitlab_ci
+learning_gitlab_ci
 Please enter the gitlab-ci tags for this runner (comma separated):
 docker
 INFO[0054] 67503196 Registering runner... succeeded
