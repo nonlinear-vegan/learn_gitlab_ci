@@ -6,7 +6,7 @@ class unitTest_add_numbers(unittest.TestCase):
   
   def test_add_numbers(self):
     self.assertEquals(9,add_numbers.add_numbers(4,5),"adding 4 and 5")
-    self.assertEquals(10,add_numbers.add_numbers(4,5),"what happens when we fail?")
+    self.assertEquals(10,add_numbers.add_numbers(4,5),"wonder what happens when we fail?")
 
 if __name__ == '__main__':
   unittest.main()
