@@ -5,7 +5,7 @@ There is a simple python function, add\_numbers, and a unit test for it. The CI
 job uses a docker images as a runner to execute the unit tests upon pushing 
 commits to the GitLab master branch.
 
-Here's a rough overview:
+Here is a rough overview:
 
 ### Runners
 
